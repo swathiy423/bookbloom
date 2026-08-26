@@ -1,0 +1,6 @@
+{
+  "name": "BookBloom",
+  "description": "A cozy, reader-facing book release calendar, weekly digests, author alerts, and literary discovery nook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
